@@ -18,10 +18,10 @@
 
 ### 2. 抹除硬碟
 
-	$ sudo shred -vfz -n 10 /dev/sd<font color="#ff0000">X</font>
-	shred: /dev/sd<font color="#ff0000">x</font>：11 次之第 1 次 (random)...
-	shred: /dev/sd<font color="#ff0000">x</font>：11 次之第 1 次 (random)...471MiB/932GiB 0%
-	shred: /dev/sd<font color="#ff0000">x</font>：11 次之第 1 次 (random)...472MiB/932GiB 0%
-	shred: /dev/sd<font color="#ff0000">x</font>：11 次之第 1 次 (random)...949MiB/932GiB 0%
+	$ sudo shred -vfz -n 10 /dev/sdX
+	shred: /dev/sdX：11 次之第 1 次 (random)...
+	shred: /dev/sdX：11 次之第 1 次 (random)...471MiB/932GiB 0%
+	shred: /dev/sdX：11 次之第 1 次 (random)...472MiB/932GiB 0%
+	shred: /dev/sdX：11 次之第 1 次 (random)...949MiB/932GiB 0%
 	......
 

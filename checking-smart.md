@@ -9,7 +9,7 @@ SMART 是個用來檢測硬碟健康狀況的指標，雖說還是會有無法�
 	
 ### 查看該媒體是否支援 SMART 檢測。
 
-    $ sudo smartctl -i /dev/sd<font color="#ff0000">X</font>
+    $ sudo smartctl -i /dev/sdX
     smartctl 5.41 2011-06-09 r3365 [x86_64-linux-3.2.0-49-generic] (local build)
     Copyright (C) 2002-11 by Bruce Allen, http://smartmontools.sourceforge.net
     
@@ -25,28 +25,28 @@ SMART 是個用來檢測硬碟健康狀況的指標，雖說還是會有無法�
     ATA Version is:   8
     ATA Standard is:  ATA-8-ACS revision 4
     Local Time is:    Wed Jul 17 11:32:06 2013 CST
-    SMART support is: <b><font color="#238C00">Available - device has SMART capability.</font></b>
-    SMART support is: <b><font color="#238C00">Enabled</font></b>
+    SMART support is: Available - device has SMART capability.
+    SMART support is: Enabled
 
 ### 檢查建康狀況
 
 - 通過 (passed)。
 
-    $ sudo smartctl -H /dev/sd<font color="#ff0000">X</font>
+    $ sudo smartctl -H /dev/sdX
     smartctl 5.41 2011-06-09 r3365 [x86_64-linux-3.2.0-49-generic] (local build)
     Copyright (C) 2002-11 by Bruce Allen, http://smartmontools.sourceforge.net
     
     === START OF READ SMART DATA SECTION ===
-    SMART overall-health self-assessment test result: <b><font color="#238C00">PASSED</font></b>
+    SMART overall-health self-assessment test result: PASSED
 
 - 失敗、錯誤 (failed)。
 
-    $ sudo smartctl -H /dev/sd<font color="#ff0000">X</font>
+    $ sudo smartctl -H /dev/sdX
     smartctl 5.41 2011-06-09 r3365 [x86_64-linux-3.2.0-49-generic] (local build)
     Copyright (C) 2002-11 by Bruce Allen, http://smartmontools.sourceforge.net
     
     === START OF READ SMART DATA SECTION ===
-    SMART overall-health self-assessment test result: <b><font color="#ff0000">FAILED!</font></b>
+    SMART overall-health self-assessment test result: FAILED!
     Drive failure expected in less than 24 hours. SAVE ALL DATA.
     Failed Attributes:
     ID# ATTRIBUTE_NAME          FLAG     VALUE WORST THRESH TYPE      UPDATED  WHEN_FAILED RAW_VALUE
