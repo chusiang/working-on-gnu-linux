@@ -14,8 +14,9 @@ PowerTOP 是個 Linux 上的節電套件，透過關閉些不必要的裝置以�
 
 ![powertop-20130915-231821.html](imgs/2013-09-15-powertop-html.png "powertop-20130915-231821.html")
 
-把微調指令使用一個 shell script 整理過的。
+將微調的指令使用一個 shell script 打包起來。
 
+```
 	$ vi /usr/local/bin/powersave
 	#!/bin/bash
 	# PowerTop conifg for ThinkPad T410 on Debian Wheezy.
@@ -91,6 +92,11 @@ PowerTOP 是個 Linux 上的節電套件，透過關閉些不必要的裝置以�
 	
 	# Wake-on-lan status for device eth0
 	#ethtool -s eth0 wol d;
+```
 
-現在凍仁開機時只需使用 sudo powersave 即可快速切換省電模式。
+給予執行權限。
+
+	$ sudo chmod +x /usr/local/bin/powersave
+
+現在凍仁開機時只需使用 `sudo powersave` 即可快速切換至**省電模式**。
 
