@@ -30,7 +30,7 @@ SMART 是個用來檢測硬碟健康狀況的指標，雖說還是會有無法�
 
 ### 檢查建康狀況
 
-- 通過 (passed)。
+通過 (passed)。
 
     $ sudo smartctl -H /dev/sdX
     smartctl 5.41 2011-06-09 r3365 [x86_64-linux-3.2.0-49-generic] (local build)
@@ -39,7 +39,7 @@ SMART 是個用來檢測硬碟健康狀況的指標，雖說還是會有無法�
     === START OF READ SMART DATA SECTION ===
     SMART overall-health self-assessment test result: PASSED
 
-- 失敗、錯誤 (failed)。
+失敗、錯誤 (failed)。
 
     $ sudo smartctl -H /dev/sdX
     smartctl 5.41 2011-06-09 r3365 [x86_64-linux-3.2.0-49-generic] (local build)
