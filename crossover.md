@@ -3,6 +3,10 @@
 
 多數在 Windows 的軟體在 Linux 都有替代方案，但多少還是會有些不得不用的特殊軟體，例如 Microsoft Office、Evernote ...。
 
+![2013-09-16-crowser-00.png](imgs/2013-09-16-crowser-00.png "2013-09-16-crowser-00.png")
+
+[CrossOver 官方網站](http://www.codeweavers.com/)
+
 下載 CrossOver 12.5.0-1 套件。
 
 http://media.codeweavers.com/pub/crossover/cxlinux/demo/
@@ -68,5 +72,6 @@ http://media.codeweavers.com/pub/crossover/cxlinux/demo/
 	Registering documents with scrollkeeper...
 
 ![2013-09-16-crowser-01.png](imgs/2013-09-16-crowser-01.png "2013-09-16-crowser-01.png")
+
 CrossOver 安裝完成！
 
