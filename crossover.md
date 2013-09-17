@@ -5,7 +5,7 @@ Windows 上多數的軟體在 Linux 裡都有替代方案了，但還是會有�
 
 穩定的代價就是得花點小錢，若覺得此筆開銷過高，也可等限時免費的活動。
 
-![2013-09-16-crowser-00.png](imgs/2013-09-16-crowser-00.png "2013-09-16-crowser-00.png")
+![2013-09-16-crossovr-00.png](imgs/2013-09-16-crossover-00.png "2013-09-16-crossover-00.png")
 
 [CrossOver 官方網站](http://www.codeweavers.com/)
 
@@ -73,7 +73,7 @@ http://media.codeweavers.com/pub/crossover/cxlinux/demo/
 	Processing 1 changed doc-base file...
 	Registering documents with scrollkeeper...
 
-![2013-09-16-crowser-01.png](imgs/2013-09-16-crowser-01.png "2013-09-16-crowser-01.png")
+![2013-09-16-crossovr-01.png](imgs/2013-09-16-crossovr-01.png "2013-09-16-crossovr-01.png")
 
 安裝完成！
 
