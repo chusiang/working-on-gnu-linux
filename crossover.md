@@ -1,7 +1,9 @@
 
 ## CrossOver
 
-多數在 Windows 的軟體在 Linux 都有替代方案，但多少還是會有些不得不用的特殊軟體，例如 Microsoft Office、Evernote ...。
+Windows 上多數的軟體在 Linux 裡都有替代方案了，但還是會有些不得不用的特殊軟體，例如 Microsoft Office, Evernote, Adobe Photoshop ... 這時可以選擇有商業支援的 CrossOver 以追求穩定。
+
+穩定的代價就是得花點小錢，若覺得此筆開銷過高，也可等限時免費的活動。
 
 ![2013-09-16-crowser-00.png](imgs/2013-09-16-crowser-00.png "2013-09-16-crowser-00.png")
 
@@ -13,7 +15,7 @@ http://media.codeweavers.com/pub/crossover/cxlinux/demo/
 
 	wget http://media.codeweavers.com/pub/crossover/cxlinux/demo/ia32-crossover_12.5.0-1_amd64.deb
  
-一開始安裝時會有缺少部份套件的錯誤訊息，這時只需先行補齊即可。
+一開始安裝時會有缺少部份套件的錯誤訊息，這時只需先行補完即可。
 
 	$ sudo aptitude install libc6-i386 ia32-libs ia32-apt-get lib32gcc1 lib32nss-mdns lib32z1 lib32asound2 
 	The following NEW packages will be installed:
@@ -73,5 +75,5 @@ http://media.codeweavers.com/pub/crossover/cxlinux/demo/
 
 ![2013-09-16-crowser-01.png](imgs/2013-09-16-crowser-01.png "2013-09-16-crowser-01.png")
 
-CrossOver 安裝完成！
+安裝完成！
 
