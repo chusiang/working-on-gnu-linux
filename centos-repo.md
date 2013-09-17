@@ -1,6 +1,7 @@
 
 ## CentOS Repo
 
+CentOS 預設的套件庫並不及 Debian 完整 (豐富) ，很棒的是我們還有第三方來源的套件庫可以使用，較著名的有 RPMforge, EPEL ... 等，建議先行安裝 RPMforge 再使用其它的來源會簡單些。 
 
 ### RPMforge
 
