@@ -1,11 +1,11 @@
 
 ## CentOS Repo
 
-CentOS 預設的套件庫並不及 Debian 完整 (豐富) ，很棒的是我們還有第三方來源的套件庫可以使用，較著名的有 RPMforge, EPEL ... 等，建議先行安裝 RPMforge 再使用其它的來源會簡單些。 
+CentOS 預設的套件庫並不及 Debian 來的完整 (豐富) ，但很棒的是有第三方來源的套件庫可以使用。著名的有 RPMforge, EPEL ... 等，建議先行安裝 RPMforge 後再使用其它來源會簡單些。 
 
 ### RPMforge
 
-Download
+下載 RPMForge 安裝檔。
 
 	# 64 bit
 	wget http://pkgs.repoforge.org/rpmforge-release/rpmforge-release-0.5.3-1.el6.rf.x86_64.rpm
@@ -13,33 +13,33 @@ Download
 	# 32 bit
 	wget http://pkgs.repoforge.org/rpmforge-release/rpmforge-release-0.5.3-1.el6.rf.i686.rpm
 
-安裝 DAG 的 GPG 金鑰
+匯入 DAG 的 RPM GPG 金鑰。
 
 	rpm --import http://apt.sw.be/RPM-GPG-KEY.dag.txt
 
-如果你遇到以下錯誤，該金鑰先前已被匯入：
+若看到以下訊息則表示先前已匯過。
 
 	error: http://apt.sw.be/RPM-GPG-KEY.dag.txt: key 1 import failed.
 
-審核你所下載的套件
+驗證套件，查看此安裝是否為 DAG 所簽證，就算是在 Linux 上也是得避免安裝來路不名的軟體。
 
 	rpm -K rpmforge-release-0.5.2-2.el6.rf.*.rpm
 
 <!> 安全性警告： rpmforge-release 這個套件會將數條 GPG 金鑰匯入你的 RPM 資料庫內。你若已審核過確套件的 md5sum，並信任 Dag 等人，那麼它的安全性便延伸自你對他們的信任。
 
-安裝套件
+安裝。
 
 	rpm -i rpmforge-release-0.5.2-2.el6.rf.*.rpm
 
 這樣做會新增一個 yum 軟件庫的設定檔及匯入應有的 GPG 金鑰。
 
-接著你可以嘗試安裝軟件：
+現在可以使用 yum 來安裝 RPMForge 來源的套件了。
 
 	yum install htop
 
 ### EPEL
 
-Download
+下載 EPEL 安裝檔。
 
 	$ wget http://mirror-fpt-telecom.fpt.net/fedora/epel/6/i386/epel-release-6-8.noarch.rpm
 
@@ -99,6 +99,7 @@ watch Info
 
 install package with yum of epel source.
 
+現在可以使用 yum 來安裝 RPMForge 來源的套件了。
 	$ sudo yum install php-drush-drush
 
 ### Reference
