@@ -9,5 +9,5 @@ nmap <leader>1 f(lvi(x
 nmap <leader>2 ?url=<cr>3lp
 
 " find ']' and replace to '[/url]'.
-nmap <leader>3 f];s[/url]<esc>2l
+nmap <leader>3 f];s[/url]<esc>lxxx
 
