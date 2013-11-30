@@ -4,3 +4,14 @@ GNU/Linux 至今已經相當成熟並足以應付日常生活之使用，凍仁�
 
 ※ 本文同步發布於 [凍仁的筆記](http://note.drx.tw/2013/09/working-on-gnu-linux.html)
 
+
+## Makefile
+
+- 將 *.md 轉成 HTML 並複製到剪貼簿 (clipboard)。
+
+	./target 00.about.md
+
+- 將 *.md 轉成 HTML 並使用 Chromium 開啟。
+
+	make html
+
