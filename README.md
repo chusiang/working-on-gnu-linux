@@ -37,13 +37,13 @@ GNU/Linux 至今已經相當成熟並足以應付日常生活之使用，凍仁�
 - [29. 檢測硬碟 SMART 健康狀態](29.checking-hd-smart.md)
 - [30. 銷毀資料 - Shred](30.shreding-disk.md)
 
-## Makefile
+## Makefile (for Linux)
 
 - 將 *.md 轉成 HTML 並複製到剪貼簿 (clipboard)。
 
-	$ ./target 00.about.md
+      $ ./target 00.about.md
 
 - 將 *.md 轉成 HTML 並使用 Chromium 開啟。
 
-	$ make html
+	  $ make html
 
