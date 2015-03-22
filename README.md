@@ -11,39 +11,39 @@ GNU/Linux 至今已經相當成熟並足以應付日常生活之使用，凍仁�
 - [03. 網路設定](03.network-setting.md)
 - [04. 套件管理](04.package-management.md)
 - [05. 套件庫及鏡像站](05.reopsiroty-and-mirror.md)
-- [06. 安裝驅動程式 (device driver)](06.patch-device-driver.md)
+- [06. 安裝驅動程式](06.patch-device-driver.md)
 - [07. 簡易的防火牆](07.ufw.md)
-- [08. 電源管理 (PowerTOP)](08.power-management-with-powertop.md)
+- [08. 電源管理 - PowerTOP](08.power-management-with-powertop.md)
 - [09. Hacking Bash](09.hacking-bash.md)
 - [10. Shell Scripts](10.shell-script.md)
 - [11. Hacking Vim](11.hacking-vim.md)
-- [12. Vim 套件管理 (NeoBundle)](12.vim-plugin-neobundle.md)
+- [12. Vim 套件管理 - NeoBundle](12.vim-plugin-neobundle.md)
 - [13. Pentadactyl](13.pentadactyl.md)
-- [14. 色碼擷取器 (Gpick vs Gcolor2)](14.gpick-vs-gcolor2.md)
+- [14. 色碼擷取器 - Gpick vs Gcolor2](14.gpick-vs-gcolor2.md)
 - [15. 文字界面的字典 sdcv](15.sdcv.md)
 - [16. 於 Vim 裡使用 sdcv](16.sdcv-in-vim.md)
 - [17. 商業版的 Wine - CrossOver](17.crossover.md)
 - [18. 藉由 CrossOver 安裝 Microsoft Office 2007](18.office-2007.md)
-- [19. 虛擬機器 (VMware Player 5)](19.virtual-machine.md)
-- [20. 增進 SSH 使用效率 (ssh_config)](20.ssh_config.md)
-- [21. 遠端桌面軟體 (Remmina)](21.remmina.md)
-- [22. 密碼管理員 (FPM2)](22.fpm2.md)
-- [23. 密碼管理員 (FPM2Droid)](23.fpm2droid.md)
+- [19. 虛擬機器 - VMware Player 5](19.virtual-machine.md)
+- [20. 增進 SSH 使用效率 - ssh_config](20.ssh_config.md)
+- [21. 遠端桌面軟體 - Remmina](21.remmina.md)
+- [22. 密碼管理員 - FPM2](22.fpm2.md)
+- [23. 密碼管理員 - FPM2Droid](23.fpm2droid.md)
 - [24. 視窗管理及工作區 (上)](24.wm-and-workspace-1.md)
 - [25. 視窗管理及工作區 (下)](25.wm-and-workspace-2.md)
 - [26. 使用 Clonezilla 打造不死的作業系統](26.clonezilla.md)
 - [27. Ubuntu 系統版本升級](27.upgrading-ubuntu.md)
 - [28. 使用 Live CD 修復 Debian/Ubuntu 系統](28.recovery-with-live-cd.md)
 - [29. 檢測硬碟 SMART 健康狀態](29.checking-hd-smart.md)
-- [30. 銷毀資料 (Shred)](30.shreding-disk.md)
+- [30. 銷毀資料 - Shred](30.shreding-disk.md)
 
 ## Makefile
 
 - 將 *.md 轉成 HTML 並複製到剪貼簿 (clipboard)。
 
-	./target 00.about.md
+	$ ./target 00.about.md
 
 - 將 *.md 轉成 HTML 並使用 Chromium 開啟。
 
-	make html
+	$ make html
 
