@@ -34,16 +34,19 @@ GNU/Linux 至今已經相當成熟並足以應付日常生活之使用，凍仁�
 1. [使用 Live CD 修復 Debian/Ubuntu 系統](28.recovery-with-live-cd.md)
 1. [檢測硬碟 SMART 健康狀態](29.checking-hd-smart.md)
 1. [銷毀資料 - Shred](30.shreding-disk.md)
-
-### 附錄
-
-1. [將 Markdown 文件轉成 HTML](31.convert-markdown-to-html.md)
-
+1. 附錄
+ 1. [將 Markdown 文件轉成 HTML](_1.convert-markdown-to-html.md)
 
 ## 誌謝
 
+首先，最感謝的是我的妻子 Violet，在凍仁忙著參加 30 天發文不間斷的鐵人賽 [^2] 時給予了凍仁相當大的支持和鼓勵，要不是有她的督促和校稿凍仁是完成不了這本書的。
 
+最後要謝謝 KaLUG [^3], Ubuntu@Taiwan [^4], Study-Area [^5] ... 等自由軟體社群前輩的指導，讓凍仁從踏入 GNU/Linux 的新手到成為一位稱職的 Linux Administrator，要不是有您們也不會有今天的凍仁。
 
 ----
 
 [^1]: 本書同步發布於[凍仁的筆記](http://note.drx.tw/2013/09/working-on-gnu-linux.html)和 [iT 邦幫忙](http://ithelp.ithome.com.tw/ironman6/player/chusiang/tech/1)，並獲得[第六屆 iT 邦幫忙鐵人賽優選](http://ithelp.ithome.com.tw/question/10142953)。
+[^2]: 曾有前人用**地獄磨練 30 天**來形容 iT 邦幫忙所主辦的鐵人賽。
+[^3]: 關於 KaLUG (大高雄 Linux 使用者協會) - http://kalug.linux.org.tw/pmwiki。
+[^4]: 關於 Ubuntu@Taiwan - http://wiki.ubuntu-tw.org/index.php?title=Ubuntu%40TW_NEEDS_YOU_%21。
+[^5]: 關於 Study-Area (酷！學園) - http://phorum.study-area.org
