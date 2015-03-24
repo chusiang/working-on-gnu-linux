@@ -45,7 +45,9 @@ GNU/Linux 至今已經相當成熟並足以應付日常生活之使用，凍仁�
 
 謝謝大學時引領凍仁進入 GNU/Linux 世界的曾羣偉教授和王榮祥學長，讓凍仁了解到自由軟體的美好。
 
-最後要謝謝 KaLUG [^3], Ubuntu@Taiwan [^4], Study-Area [^5] ... 等自由軟體社群前輩的指導，讓凍仁從踏入 GNU/Linux 的新手到成為一位稱職的 Linux Administrator，要不是有您們也不會有今天的凍仁。
+謝謝 KaLUG [^3], Ubuntu@Taiwan [^4], Study-Area [^5] ... 等自由軟體社群前輩的指導，讓凍仁從踏入 GNU/Linux 的新手到成為一位稱職的 Linux Administrator。
+
+最後還要謝謝許許多多曾幫助過我的伙伴，要不是有他們就沒有昔日的凍仁。
 
 ----
 
