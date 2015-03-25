@@ -2,7 +2,7 @@
 
 GNU/Linux 至今已經相當成熟並足以應付日常生活之使用，凍仁也於 2009 年開始使用它來工作至今，將藉由此書 [^1] 來撰寫較有系統的文章及分享些上班經驗。
 
-若有需要勘誤的部份，觀迎大家來信至 *<u>working-on-gnu-linux (at) drx.tw</u>*，當然您也可以上 GitHub 網站 [^2] 送 Pull Request 或發 issues。
+若有需要勘誤的部份，觀迎大家來信至 *<u>working-on-gnu-linux (at) drx.tw</u>*，(當然您也可以上 GitHub 網站 [^2] 送 Pull Request 或發 issues)，讓此書可以更完美。
 
 ## 目錄
 
