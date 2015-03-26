@@ -12,7 +12,7 @@ GNU/Linux 至今已經相當成熟並足以應付日常生活之使用，凍仁�
 1. [套件管理](04.package-management.md)
 1. [套件庫及鏡像站](05.reopsiroty-and-mirror.md)
 1. [安裝驅動程式](06.patch-device-driver.md)
-1. [簡易的防火牆](07.ufw.md)
+1. [簡易的防火牆 - UFW & GUFW](07.ufw.md)
 1. [電源管理 - PowerTOP](08.power-management-with-powertop.md)
 1. [Hacking Bash](09.hacking-bash.md)
 1. [Shell Scripts](10.shell-script.md)
