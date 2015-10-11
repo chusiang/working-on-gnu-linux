@@ -1,11 +1,18 @@
 {
-  "plugins": ["disqus", "ga"],
+  "plugins": [
+    "disqus",
+    "ga",
+    "github"
+  ],
   "pluginsConfig": {
     "disqus": {
       "shortName": "chusiang-working-on-gnu-linux-books"
     },
     "ga": {
       "token": "UA-15084346-2"
+    },
+    "github": {
+      "url": "https://github.com/chusiang/working-on-gnu-linux"
     }
   }
 }

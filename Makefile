@@ -10,7 +10,7 @@ OS_NAME := $(shell uname)
 
 include  Makefile.target
 
-.PHONY: main html cp2clipboard build pdf epub mobi update review push clean
+.PHONY: main html cp2clipboard install build pdf epub mobi update review push clean
 
 main: build review
 
@@ -40,6 +40,9 @@ cp2clipboard: $(md)
 html: $(md)
 	markdown_py $(md) > tmp.html
 	chromium tmp.html
+
+install:
+	gitbook install .
 
 build:
 	gitbook build .
