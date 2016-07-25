@@ -1,10 +1,12 @@
 # 完全用 GNU/Linux 工作
 
-[![Join the chat at https://gitter.im/chusiang/working-on-gnu-linux](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/chusiang/working-on-gnu-linux?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/chusiang/working-on-gnu-linux](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/chusiang/working-on-gnu-linux?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
 
 GNU/Linux 至今已經相當成熟並足以應付日常生活之使用，凍仁也於 2009 年開始使用它來工作至今，將藉由此書 [^1] 來撰寫較有系統的文章及分享些上班經驗。
 
-若有需要勘誤的部份，觀迎大家來信至 *<u>working-on-gnu-linux (at) drx.tw</u>*，(當然您也可以上 GitHub 網站 [^2] 送 Pull Request 或發 issues)，讓此書可以更完美。
+若需勘誤，觀迎大家來信 *<u>working-on-gnu-linux (at) drx.tw</u>*，(當然您也可以上 GitHub 網站 [^2] 送 Pull Request 或發 issues)，讓此書可以更完美。
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/tw/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/tw/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">《完全用 GNU/Linux 工作》</span>由<a xmlns:cc="http://creativecommons.org/ns#" href="http://note.drx.tw" property="cc:attributionName" rel="cc:attributionURL">凍仁翔</a>製作，以<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/tw/">創用CC 姓名標示-非商業性-相同方式分享 3.0 台灣 授權條款</a>釋出。
 
 ## 目錄
 
