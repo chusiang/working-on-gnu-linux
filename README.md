@@ -58,8 +58,14 @@ GNU/Linux 至今已經相當成熟並足以應付日常生活之使用，凍仁�
 ----
 
 [^1]: 本書同步發布於[凍仁的筆記](http://note.drx.tw/2013/09/working-on-gnu-linux.html)和 [iT 邦幫忙](http://ithelp.ithome.com.tw/ironman6/player/chusiang/tech/1)，並獲得[第六屆 iT 邦幫忙鐵人賽優選](http://ithelp.ithome.com.tw/question/10142953)。
+
 [^2]: 本書的 GitHub 網址為 [https://github.com/chusiang/working-on-gnu-linux](https://github.com/chusiang/working-on-gnu-linux)。
+
 [^3]: 曾有前人用**地獄磨練 30 天**來形容 iT 邦幫忙所主辦的鐵人賽。
+
 [^4]: 關於 KaLUG (大高雄 Linux 使用者協會) - [http://kalug.linux.org.tw/pmwiki](http://kalug.linux.org.tw/pmwiki)。
+
 [^5]: 關於 Ubuntu@Taiwan - [http://wiki.ubuntu-tw.org/index.php?title=Ubuntu%40TW_NEEDS_YOU_%21](http://wiki.ubuntu-tw.org/index.php?title=Ubuntu%40TW_NEEDS_YOU_%21)。
+
 [^6]: 關於 Study-Area (酷！學園) - [http://phorum.study-area.org](http://phorum.study-area.org)。
+
