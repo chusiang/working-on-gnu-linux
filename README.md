@@ -1,6 +1,6 @@
 # 完全用 GNU/Linux 工作
 
-[![Join the chat at https://gitter.im/chusiang/working-on-gnu-linux](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/chusiang/working-on-gnu-linux?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
+[![Markdown](https://img.shields.io/badge/%3C%2F%3E-Markdown-blue.svg)](http://markdown.tw) [![GitBook](https://img.shields.io/badge/GitBook-chusiang%2Fworking--on--linux-blue.svg)](https://www.gitbook.com/book/chusiang/working-on-gnu-linux/) [![License: CC BY-NC-SA 3.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 GNU/Linux 至今已經相當成熟並足以應付日常生活之使用，凍仁也於 2009 年開始使用它來工作至今，將藉由此書 [^1] 來撰寫較有系統的文章及分享些上班經驗。
 
