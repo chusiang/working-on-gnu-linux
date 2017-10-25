@@ -4,6 +4,7 @@
   "language": "zh-tw",
   "plugins": [
     "disqus",
+    "-lunr", "-search", "search-plus",
     "ga",
     "github"
   ],
